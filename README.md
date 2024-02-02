@@ -3,9 +3,7 @@
 ## About App Laravel
 
 My app laravel (code laravel) is the mine first app, where i create simple codes in php.
-<<<<<<< HEAD
+
 
 - Initial commit was made to save my studies on routes, controllers and actions, where I could understand more about laravel;
 - I am learning more of laravel, a full stack framework;
-=======
->>>>>>> 88db1c0dae30b4ebf948d67226533298e56cab53
